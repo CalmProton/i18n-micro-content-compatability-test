@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome to our site",
+  "navigation": {
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "home": {
+    "title": "Home Page",
+    "description": "This is the main page with internationalization"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Read our latest articles"
+  },
+  "language": "Language",
+  "switchLanguage": "Switch Language"
+}

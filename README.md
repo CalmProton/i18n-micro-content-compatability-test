@@ -1,0 +1,1 @@
+# i18n-micro-content-compatability-test
